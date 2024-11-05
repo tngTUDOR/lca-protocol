@@ -35,5 +35,5 @@ html_context = {
     "reading_mode": "light"
 }
 
-
+html_baseurl = "/lca-protocol/"
 html_static_path = ['_static']
